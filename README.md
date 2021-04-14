@@ -75,3 +75,13 @@ Secret-Key: ''
 * 503 (service not available)
 
 * https://httpstatuses.com/
+
+# summarize 
+
+* endpoint (naming system,segment)
+* http methods
+* http status code 
+
+~ feature 
+* versioning
+* filtering,pagination,sorting
